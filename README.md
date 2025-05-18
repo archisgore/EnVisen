@@ -1,18 +1,3 @@
-# DEPRECATION NOTICE
-
-Please note that this repository has been deprecated and is no longer actively maintained by Polyverse Corporation.  It may be removed in the future, but for now remains public for the benefit of any users.
-
-Importantly, as the repository has not been maintained, it may contain unpatched security issues and other critical issues.  Use at your own risk.
-
-While it is not maintained, we would graciously consider any pull requests in accordance with our Individual Contributor License Agreement.  https://github.com/polyverse/contributor-license-agreement
-
-For any other issues, please feel free to contact info@polyverse.com
-
----
-
-⚠️ This tool may only be used for educational, teaching, learning,
-understanding and research purposes only.
-
 # Binary Entropy Visualizer
 
 Completely self-contained binary ROP/JOP gadget analyzer for comparing two binaries
@@ -21,7 +6,7 @@ self-contained client-side browser application. Focussed on extreme simplicity
 of usage and portability across platforms.
 
 # Get Started:
-Visit the hosted version here: https://analyze.polyverse.com/
+Visit the hosted version here: [https://envisen.archisgore.com](https://envisen.archisgore.com)
 
 
 ## Self hosting
